@@ -1,0 +1,5 @@
+{
+  "name": "VEO 3 Prompt Director V.2 Deploy",
+  "description": "Trợ lý biên kịch và đạo diễn AI giúp tạo các gợi ý chi tiết cho từng cảnh trong video VEO 3, bao gồm nhân vật, góc máy, hội thoại, SFX và đảm bảo tính liên tục.",
+  "requestFramePermissions": []
+}
